@@ -1,11 +1,11 @@
-# 🌍 Somtech
+# 🌍 Nexora Tech
 
 > Building Digital Solutions for Emerging Markets
 
 ---
 
-## 🚀 About Somtech
-**Somtech** is a technology startup focused on delivering scalable and innovative digital solutions. We specialize in **fintech systems, custom software development, and digital transformation platforms** that solve real-world problems.
+## 🚀 About Nexora
+**Nexora** is a technology startup focused on delivering scalable and innovative digital solutions. We specialize in **fintech systems, custom software development, and digital transformation platforms** that solve real-world problems.
 
 ---
 
