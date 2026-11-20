@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Somtech
+## 🚀 About Nexora
 ** Nexora ** is a technology startup focused on delivering scalable and innovative digital solutions. We specialize in **fintech systems, custom software development, and digital transformation platforms** that solve real-world problems.
 
 ---
